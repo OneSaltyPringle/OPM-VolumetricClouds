@@ -7,3 +7,5 @@ Any/all other work contained within this distribution is licensed under its resp
 Outer Planets Mod - Volumetric Cloud Configs have been posted with permission from Blackrack (creator of EVE Volumetric Clouds) to post these configs while his mod is still in early access.
 
 Written by OneSaltyPringle <mrbackfire360@gmail.com>, November 2023
+
+Modified by jthero3, June 2024
