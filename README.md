@@ -19,7 +19,7 @@ This is the REPO for OneSaltyPringle's OPM Volumetric Cloud Configs
 5. Drop GameData folder from ZIP in KSP main Directory
 6. Launch!
 
-## Author
+## Authors
 
  OneSaltyPringle 
  
